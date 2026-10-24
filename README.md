@@ -9,7 +9,7 @@ The platform provides dual capabilities:
 ---
 
 ## 🛠️ Technology Stack
-- **Language**: Python 3.10 - 3.13
+- **Language**: Python 3.12.10
 - **Deep Learning Framework**: TensorFlow 2.x / Keras
 - **Core Vision Architecture**: EfficientNetB0 (ImageNet Transfer Learning, MobileNetV2 fallback)
 - **Explainable AI**: Grad-CAM (Gradient-weighted Class Activation Mapping)
