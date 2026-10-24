@@ -1,0 +1,347 @@
+{
+  "diseases": [
+    {
+      "id": "fmd",
+      "name": "Foot and Mouth Disease (FMD)",
+      "vernacular_name": "खुरपका-मुंहपका (Khurpaka-Muhpaka)",
+      "pathogen_type": "Viral (Aphthovirus)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "HIGH",
+      "is_emergency": false,
+      "symptom_tags": [
+        "mouth_blisters",
+        "drooling_saliva",
+        "foot_sores",
+        "lameness",
+        "high_fever",
+        "milk_drop",
+        "appetite_loss"
+      ],
+      "clinical_signs": "Blisters/vesicles on tongue, lips, gums, and between hooves. Stringy, ropy salivation hanging from mouth. Severe limping/lameness. High fever (104-106°F) and sudden drop in milk production.",
+      "first_aid": [
+        "Isolate affected animals immediately in a clean, shaded enclosure to prevent herd transmission.",
+        "Wash mouth lesions gently with 1% potassium permanganate (KMnO4) or mild alum water.",
+        "Apply a soothing paste of boric acid and glycerin on oral ulcers.",
+        "Clean foot lesions with copper sulphate solution (2%) or antiseptic, and apply neem/turpentine oil to prevent fly maggots.",
+        "Feed soft, palatable gruel (boiled rice/maize daliya with jaggery) since animal cannot chew coarse fodder."
+      ],
+      "preventive_measures": [
+        "Bi-annual vaccination under the National Animal Disease Control Programme (NADCP).",
+        "Quarantine any newly purchased cattle or buffalo for at least 21 days.",
+        "Disinfect farm perimeter, vehicles, and equipment with 4% sodium carbonate."
+      ],
+      "disclaimer": "FMD is highly contagious. Prompt reporting to the nearest Veterinary Dispensary is mandatory."
+    },
+    {
+      "id": "lsd",
+      "name": "Lumpy Skin Disease (LSD)",
+      "vernacular_name": "गांठदार त्वचा रोग (Ganthdar Tvacha Rog)",
+      "pathogen_type": "Viral (Capripoxvirus)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "HIGH",
+      "is_emergency": false,
+      "symptom_tags": [
+        "skin_nodules",
+        "high_fever",
+        "swollen_legs",
+        "swollen_lymph_nodes",
+        "eye_nasal_discharge",
+        "milk_drop",
+        "appetite_loss"
+      ],
+      "clinical_signs": "Firm round nodules (2-5 cm) erupting across skin of head, neck, body, udder, and limbs. High fever (104-106°F), enlarged prescapular lymph nodes, edema of legs/brisket, and watery nasal/ocular discharge.",
+      "first_aid": [
+        "Quarantine the affected animal immediately in a mosquito/fly-proof shed.",
+        "Spray cattle sheds with natural mosquito/tick repellents or light neem leaf smoke at dusk.",
+        "Clean burst skin nodules with 1% povidone-iodine and apply turmeric-neem paste to repel flies and prevent secondary bacterial infection.",
+        "Provide continuous fresh water enriched with oral rehydration salts and electrolytes."
+      ],
+      "preventive_measures": [
+        "Immunize with Goat Pox vaccine (heterologous) or Lumpi-ProVacInd vaccine as guided by state veterinary department.",
+        "Intensive vector control (spraying against biting flies, mosquitoes, and ticks).",
+        "Restrict movement of livestock from affected areas."
+      ],
+      "disclaimer": "LSD weakens cattle and can lead to secondary infections. Consult a registered veterinarian for fever management and supportive therapy."
+    },
+    {
+      "id": "mastitis",
+      "name": "Bovine Mastitis",
+      "vernacular_name": "थनैला रोग (Thanela Rog)",
+      "pathogen_type": "Bacterial (Staphylococcus, Streptococcus, E. coli)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "HIGH",
+      "is_emergency": false,
+      "symptom_tags": [
+        "udder_swelling",
+        "teat_pain",
+        "clotted_milk",
+        "bloody_milk",
+        "fever",
+        "milk_drop"
+      ],
+      "clinical_signs": "Swollen, hard, hot, or visibly painful udder/quarter. Milk contains clots, flakes, blood, or appears watery/yellowish. The animal kicks or resists milking due to intense discomfort.",
+      "first_aid": [
+        "Perform complete, gentle stripping of milk from the affected quarter every 2-3 hours and safely discard the milk.",
+        "Apply cold water compresses or ice packs if the udder is acutely hot, inflamed, and swollen.",
+        "Perform teat dipping in 0.5% povidone-iodine solution after each milking session.",
+        "Always milk healthy cows first and the affected animal last to prevent cross-contamination.",
+        "Keep the cow standing for 30 minutes after milking by offering feed, allowing teat sphincters to close."
+      ],
+      "preventive_measures": [
+        "Ensure dry, clean bedding (sand or clean dry straw) in cattle resting areas.",
+        "Perform periodic California Mastitis Test (CMT) screening for subclinical detection.",
+        "Implement dry cow antibiotic therapy under veterinary direction before drying off."
+      ],
+      "disclaimer": "Untreated mastitis causes permanent fibrosis and quarter loss. Professional veterinary intramammary infusion and antibiotic sensitivity testing are essential."
+    },
+    {
+      "id": "hs",
+      "name": "Hemorrhagic Septicemia (HS)",
+      "vernacular_name": "गलघोंटू (Galghotu / Gurka)",
+      "pathogen_type": "Bacterial (Pasteurella multocida)",
+      "affected_species": ["Buffalo", "Cattle"],
+      "severity": "CRITICAL",
+      "is_emergency": true,
+      "symptom_tags": [
+        "throat_swelling",
+        "breathing_difficulty",
+        "high_fever",
+        "loud_grunting",
+        "salivation",
+        "sudden_collapse"
+      ],
+      "clinical_signs": "Sudden onset of very high fever (106-107°F). Hot, painful, tense inflammatory swelling in throat, submandibular space, and dewlap. Rapid shallow breathing with loud snoring/grunting sounds, tongue protruding, and severe respiratory distress.",
+      "first_aid": [
+        "IMMEDIATE EMERGENCY: Contact a veterinarian or dial 1962 emergency mobile unit without delay.",
+        "Do NOT tie tight ropes around the neck or dewlap; keep the animal's neck extended to assist airflow.",
+        "Isolate from all other livestock immediately in a cool, well-ventilated space.",
+        "Keep the animal strictly stationary; avoid any physical exertion or stress."
+      ],
+      "preventive_measures": [
+        "Annual pre-monsoon vaccination (May-June) before monsoon humidity peaks.",
+        "Maintain high hygiene during weather transitions and avoid mixing with migrating herds."
+      ],
+      "disclaimer": "CRITICAL EMERGENCY: HS progresses rapidly and can be fatal within 12-24 hours without immediate veterinary antibiotic injections."
+    },
+    {
+      "id": "bq",
+      "name": "Black Quarter (BQ)",
+      "vernacular_name": "लंगड़ा बुखार (Langda Bukhar / Sukha Rog)",
+      "pathogen_type": "Bacterial (Clostridium chauvoei)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "CRITICAL",
+      "is_emergency": true,
+      "symptom_tags": [
+        "sudden_lameness",
+        "muscle_swelling",
+        "crackling_skin",
+        "high_fever",
+        "inability_to_stand",
+        "appetite_loss"
+      ],
+      "clinical_signs": "Acute severe lameness in young stock (6-24 months). High fever (105-106°F). Hot, painful swelling on heavy muscle masses (thigh, shoulder, neck) that rapidly turns cold, painless, and produces a distinct crackling/crepitation sound when pressed due to gas accumulation.",
+      "first_aid": [
+        "IMMEDIATE EMERGENCY: Call a veterinary doctor immediately.",
+        "Do NOT puncture, cut, or massage the muscle swelling, as Clostridium spores will contaminate the pasture soil permanently.",
+        "Keep the animal comfortable on soft bedding to prevent pressure sores.",
+        "Separate from other young calves immediately."
+      ],
+      "preventive_measures": [
+        "Annual pre-monsoon BQ polyvalent vaccination.",
+        "Deep burial (with quicklime) or incineration of dead carcasses; never open carcasses in open ground."
+      ],
+      "disclaimer": "CRITICAL EMERGENCY: BQ is an acute, fatal toxemia requiring immediate veterinary intervention."
+    },
+    {
+      "id": "bloat",
+      "name": "Acute Ruminal Tympany (Bloat)",
+      "vernacular_name": "अफारा (Afara / Pet Phulna)",
+      "pathogen_type": "Metabolic / Digestive Emergency",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "CRITICAL",
+      "is_emergency": true,
+      "symptom_tags": [
+        "swollen_left_flank",
+        "abdominal_pain",
+        "breathing_difficulty",
+        "restlessness",
+        "mouth_breathing",
+        "sudden_collapse"
+      ],
+      "clinical_signs": "Severe, sudden ballooning/distension of the left flank (rumen) that sounds like a drum when tapped. Restlessness, kicking at belly, frequent urination/defecation attempts, labored breathing with neck outstretched, open mouth, and protruding tongue.",
+      "first_aid": [
+        "EMERGENCY: Elevate the animal's front legs on a raised slope/mound to reduce rumen pressure against the lungs and diaphragm.",
+        "Fasten a smooth wooden bit or clean thick rope horizontally inside the mouth like a bridle to induce continuous chewing and belching (eructation).",
+        "Administer 250-400 ml of edible vegetable oil (mustard or peanut oil) mixed with 30 ml turpentine oil under guidance as an antifoaming agent.",
+        "Walk the animal slowly on an incline if it can stand.",
+        "In life-threatening asphyxiation where the animal collapses, an experienced veterinarian will perform emergency trocarization of the left flank."
+      ],
+      "preventive_measures": [
+        "Never feed wet, dewy, or immature leguminous crops (berseem, lucerne) on an empty stomach.",
+        "Feed dry straw or coarse hay before turning animals out to lush green pastures."
+      ],
+      "disclaimer": "CRITICAL EMERGENCY: Severe bloat compresses the thoracic cavity and can cause suffocation and heart failure within hours if untreated."
+    },
+    {
+      "id": "milk_fever",
+      "name": "Milk Fever (Hypocalcemia)",
+      "vernacular_name": "सूतिका ज्वर (Hypocalcemia / Sutiya Rog)",
+      "pathogen_type": "Metabolic (Severe Calcium Deficiency)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "CRITICAL",
+      "is_emergency": true,
+      "symptom_tags": [
+        "inability_to_stand",
+        "cold_ears_legs",
+        "head_turned_to_flank",
+        "muscle_tremors",
+        "dry_muzzle",
+        "subnormal_temperature"
+      ],
+      "clinical_signs": "Occurs within 24-72 hours post-calving in high-yield dairy cows. Initial muscle trembling progresses to recumbency (lying down unable to rise). Characteristic 'S-shaped' neck curvature with head resting on flank. Cold ears, horns, and feet. Subnormal body temperature (97-100°F). Dry muzzle and dilated pupils.",
+      "first_aid": [
+        "CRITICAL RULE: NEVER DRENCH MEDICINES OR FLUIDS ORALLY. Swallowing reflexes are paralyzed; fluid will enter the lungs causing fatal aspiration pneumonia.",
+        "Prop the cow into sternal recumbency (sitting upright on chest) using straw bales to avoid regurgitation.",
+        "Massage ears, neck, and limbs vigorously with dry straw to maintain peripheral circulation.",
+        "Call veterinary doctor immediately for intravenous Calcium Borogluconate administration."
+      ],
+      "preventive_measures": [
+        "Feed low-calcium, balanced-mineral rations during the late dry period (last 2-3 weeks).",
+        "Administer oral calcium gel paste at the time of calving and a second dose 12-24 hours later."
+      ],
+      "disclaimer": "CRITICAL EMERGENCY: Hypocalcemia is fatal if calcium levels are not restored intravenously by a qualified veterinarian."
+    },
+    {
+      "id": "theileriosis",
+      "name": "Bovine Theileriosis & Tick Fever",
+      "vernacular_name": "थाइलेरियासिस व चिचड़ी बुखार (Chichdi Bukhar)",
+      "pathogen_type": "Hemoprotozoan (Theileria annulata / Babesia)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "HIGH",
+      "is_emergency": false,
+      "symptom_tags": [
+        "high_fever",
+        "swollen_lymph_nodes",
+        "pale_yellow_eyes",
+        "red_coffee_urine",
+        "rapid_breathing",
+        "severe_weakness"
+      ],
+      "clinical_signs": "Persistent high fever (105-107°F). Marked swelling of superficial lymph nodes (in front of shoulder). Severe anemia with pale or yellowish mucous membranes (gums and eyes). In Babesiosis cases, distinct dark red or coffee-colored urine ('Red Water'). Rapid breathing and emaciation.",
+      "first_aid": [
+        "Keep the animal in a shaded, well-ventilated stall on deep bedding.",
+        "Provide unlimited cool drinking water with glucose/electrolytes to maintain hydration.",
+        "Manually inspect and remove visible ticks around ears, udder, dewlap, and tail base.",
+        "Avoid any heavy physical movement or exertion due to severe oxygen-carrying deficits."
+      ],
+      "preventive_measures": [
+        "Vaccinate crossbred cattle with Rakshavac-T vaccine as recommended.",
+        "Regular application of acaricides (flumethrin/deltamethrin sprays or pour-ons) to control tick vectors.",
+        "Burn or crack-seal shed crevices where ticks hide."
+      ],
+      "disclaimer": "Protozoal blood parasites require specific antiprotozoal drugs (Buparvaquone/Diminazene) administered strictly by a veterinarian."
+    },
+    {
+      "id": "brucellosis",
+      "name": "Bovine Brucellosis",
+      "vernacular_name": "संक्रामक गर्भपात (Sankramak Garbhpaat)",
+      "pathogen_type": "Bacterial & Zoonotic (Brucella abortus)",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "HIGH",
+      "is_emergency": false,
+      "symptom_tags": [
+        "late_abortion",
+        "retained_placenta",
+        "vaginal_discharge",
+        "joint_swelling",
+        "infertility"
+      ],
+      "clinical_signs": "Abortion during the 6th to 8th month of pregnancy. Retention of placenta / afterbirth. Persistent foul-smelling vaginal discharge (metritis). Swelling of joints (hygroma) and reduced fertility in herd.",
+      "first_aid": [
+        "CRITICAL ZOONOTIC DANGER: Brucellosis infects humans (causes undulant fever). ALWAYS WEAR GLOVES AND FACE MASK.",
+        "Do NOT touch aborted fetus, placenta, or fluid discharge bare-handed.",
+        "Immediately burn or deeply bury (at least 6 feet with quicklime) all aborted materials.",
+        "Isolate aborted cow for at least 30 days and thoroughly disinfect the calving pen with 2% sodium hydroxide or bleaching powder.",
+        "NEVER consume raw, unboiled milk from suspected cattle."
+      ],
+      "preventive_measures": [
+        "Mandatory one-time vaccination of female calves aged 4-8 months with Brucella abortus S19 vaccine under NADCP.",
+        "Screen all breeding bulls and replacement heifers with serum agglutination tests."
+      ],
+      "disclaimer": "Brucellosis poses serious public health risks to farmers and consumers. Immediately report abortions to the animal husbandry department."
+    },
+    {
+      "id": "pneumonia",
+      "name": "Bovine Respiratory Disease (Pneumonia)",
+      "vernacular_name": "निमोनिया व श्वास रोग (Pneumonia / Shwas Rog)",
+      "pathogen_type": "Bacterial & Viral Complex",
+      "affected_species": ["Cattle", "Buffalo"],
+      "severity": "MODERATE",
+      "is_emergency": false,
+      "symptom_tags": [
+        "coughing",
+        "nasal_discharge",
+        "rapid_breathing",
+        "fever",
+        "drooping_ears",
+        "appetite_loss"
+      ],
+      "clinical_signs": "Frequent dry or moist coughing, bilateral nasal discharge (watery progressing to thick mucus/pus), rapid shallow breathing, fever (103-105°F), drooped head and ears, and loss of appetite, especially in young calves during winter or damp seasons.",
+      "first_aid": [
+        "Move the animal into a dry, warm, draft-free shelter with clean bedding.",
+        "Provide warm drinking water and soft, easily digestible fodder.",
+        "Clean crusted nasal discharge with warm saline water and cotton swabs.",
+        "Isolate sick calves from healthy calves to stop aerosol spread."
+      ],
+      "preventive_measures": [
+        "Ensure calves receive 3-4 liters of maternal colostrum within the first 2 hours of life.",
+        "Maintain adequate ventilation without exposing animals to direct cold nighttime drafts.",
+        "Avoid overcrowding and damp bedding in sheds."
+      ],
+      "disclaimer": "Respiratory infections in cattle can rapidly progress to irreversible lung consolidation. Early veterinary antibiotic intervention is vital."
+    }
+  ],
+  "symptom_categories": {
+    "Head & Mouth": [
+      {"id": "mouth_blisters", "label": "Blisters/sores on mouth, tongue or lips", "is_emergency": false},
+      {"id": "drooling_saliva", "label": "Excessive stringy/ropy salivation", "is_emergency": false},
+      {"id": "throat_swelling", "label": "Severe hot swelling in throat/dewlap area", "is_emergency": true},
+      {"id": "eye_nasal_discharge", "label": "Watery or purulent eye and nasal discharge", "is_emergency": false}
+    ],
+    "Breathing & Lungs": [
+      {"id": "breathing_difficulty", "label": "Severe difficulty breathing / open-mouth gasping", "is_emergency": true},
+      {"id": "loud_grunting", "label": "Loud snoring, wheezing, or grunting breath sounds", "is_emergency": true},
+      {"id": "coughing", "label": "Frequent dry or moist coughing", "is_emergency": false},
+      {"id": "rapid_breathing", "label": "Rapid, shallow abdominal breathing", "is_emergency": false}
+    ],
+    "Skin & Legs": [
+      {"id": "skin_nodules", "label": "Multiple firm round lumps/nodules on skin", "is_emergency": false},
+      {"id": "foot_sores", "label": "Wounds/sores between hooves or coronet", "is_emergency": false},
+      {"id": "lameness", "label": "Limping / difficulty walking", "is_emergency": false},
+      {"id": "sudden_lameness", "label": "Sudden acute severe lameness in young animal", "is_emergency": true},
+      {"id": "muscle_swelling", "label": "Swelling on shoulder/thigh with crackling gas sound", "is_emergency": true},
+      {"id": "swollen_legs", "label": "Swollen legs or brisket edema", "is_emergency": false}
+    ],
+    "Udder & Milk": [
+      {"id": "udder_swelling", "label": "Swollen, hard, hot, or painful udder", "is_emergency": false},
+      {"id": "teat_pain", "label": "Animal resists milking / painful teats", "is_emergency": false},
+      {"id": "clotted_milk", "label": "Milk with flakes, clots, or watery color", "is_emergency": false},
+      {"id": "bloody_milk", "label": "Blood or yellow pus in milk", "is_emergency": false},
+      {"id": "milk_drop", "label": "Sudden severe drop in milk production", "is_emergency": false}
+    ],
+    "Digestion & Flank": [
+      {"id": "swollen_left_flank", "label": "Severe drum-like ballooning/swelling of left flank (Bloat)", "is_emergency": true},
+      {"id": "abdominal_pain", "label": "Restlessness, kicking at belly, colic signs", "is_emergency": true},
+      {"id": "appetite_loss", "label": "Complete refusal to eat or chew cud", "is_emergency": false}
+    ],
+    "General & Mobility": [
+      {"id": "inability_to_stand", "label": "Animal lying down, unable to rise (Downer cow)", "is_emergency": true},
+      {"id": "high_fever", "label": "Very high fever (above 104°F / 40°C)", "is_emergency": false},
+      {"id": "cold_ears_legs", "label": "Ears, muzzle and legs feel unusually cold", "is_emergency": true},
+      {"id": "head_turned_to_flank", "label": "Neck curved, head resting against flank", "is_emergency": true},
+      {"id": "red_coffee_urine", "label": "Red or dark coffee-colored urine", "is_emergency": true},
+      {"id": "late_abortion", "label": "Premature abortion in 6th-8th month of pregnancy", "is_emergency": false},
+      {"id": "retained_placenta", "label": "Retained afterbirth / placenta for >12 hours", "is_emergency": false}
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "national_helplines": [
+    {
+      "name": "1962 Emergency Animal Health Helpline (MVU)",
+      "authority": "Government of India - National Animal Disease Control Programme",
+      "number": "1962",
+      "timing": "24 Hours / 7 Days a Week",
+      "coverage": "All Major Indian States (Uttar Pradesh, Punjab, Haryana, Gujarat, Rajasthan, Maharashtra, MP, AP, Telangana, Karnataka, Tamil Nadu, etc.)",
+      "description": "Toll-free emergency helpline providing Mobile Veterinary Units (MVU) with doctor, paravet, and emergency medicines directly to farmers' doorsteps."
+    },
+    {
+      "name": "Kisan Call Center (KCC) Veterinary Advisory",
+      "authority": "Ministry of Agriculture & Farmers Welfare, Govt. of India",
+      "number": "1800-180-1551",
+      "timing": "06:00 AM to 10:00 PM (All 365 Days)",
+      "coverage": "Pan-India (22 Regional Languages)",
+      "description": "Free toll-free consultation connecting farmers directly with agricultural and veterinary science specialists."
+    },
+    {
+      "name": "Department of Animal Husbandry & Dairying (DAHD)",
+      "authority": "Ministry of Fisheries, Animal Husbandry & Dairying, Govt. of India",
+      "number": "011-23382753",
+      "timing": "09:30 AM to 06:00 PM (Monday to Friday)",
+      "coverage": "National Headquarters (New Delhi)",
+      "description": "Central ministry control room for livestock epidemic reporting, livestock schemes, and central animal disease programs."
+    },
+    {
+      "name": "National Dairy Development Board (NDDB) Advisory",
+      "authority": "NDDB, Anand, Gujarat",
+      "number": "1800-11-2260",
+      "timing": "09:00 AM to 05:30 PM (Working Days)",
+      "coverage": "Pan-India",
+      "description": "Toll-free technical guidance on dairy cattle nutrition, calf rearing, reproduction, and breed preservation."
+    }
+  ],
+  "state_directories": [
+    {
+      "state": "Uttar Pradesh",
+      "primary_emergency": "1962",
+      "department": "Directorate of Animal Husbandry, Uttar Pradesh, Lucknow",
+      "helpline": "1800-180-5144 / 0522-2740482",
+      "major_hospital": "Pt. Deen Dayal Upadhyaya Veterinary University (DUVASU) Hospital, Mathura",
+      "hospital_contact": "0565-2470199",
+      "address": "Gokul Road, Mathura, Uttar Pradesh - 281001"
+    },
+    {
+      "state": "Punjab",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry, Punjab, Chandigarh",
+      "helpline": "0172-2701324",
+      "major_hospital": "Guru Angad Dev Veterinary and Animal Sciences University (GADVASU) Hospital, Ludhiana",
+      "hospital_contact": "0161-2414011 / 0161-2414022",
+      "address": "Ferozepur Road, Ludhiana, Punjab - 141004"
+    },
+    {
+      "state": "Haryana",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry and Dairying, Haryana, Panchkula",
+      "helpline": "0172-2574663",
+      "major_hospital": "Lala Lajpat Rai University of Veterinary and Animal Sciences (LUVAS) Clinics, Hisar",
+      "hospital_contact": "01662-256065 / 01662-256119",
+      "address": "CCS HAU Campus, Hisar, Haryana - 125004"
+    },
+    {
+      "state": "Gujarat",
+      "primary_emergency": "1962",
+      "department": "Directorate of Animal Husbandry, Gujarat, Gandhinagar",
+      "helpline": "1800-233-3962 / 079-23256114",
+      "major_hospital": "Anand Veterinary College Hospital (Kamdhenu University), Anand",
+      "hospital_contact": "02692-261486 / 02692-261392",
+      "address": "Anand Agricultural University Campus, Anand, Gujarat - 388001"
+    },
+    {
+      "state": "Rajasthan",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry, Rajasthan, Jaipur",
+      "helpline": "0141-2741184 / 0141-2741185",
+      "major_hospital": "Rajasthan University of Veterinary and Animal Sciences (RAJUVAS), Bikaner",
+      "hospital_contact": "0151-2250241 / 0151-2256144",
+      "address": "Bijey Bhawan Palace Complex, Bikaner, Rajasthan - 334001"
+    },
+    {
+      "state": "Maharashtra",
+      "primary_emergency": "1962",
+      "department": "Commissionerate of Animal Husbandry, Maharashtra, Pune",
+      "helpline": "1800-233-0418 / 020-25691060",
+      "major_hospital": "Bombay Veterinary College (MAFSU), Parel, Mumbai",
+      "hospital_contact": "022-24131180 / 022-24137030",
+      "address": "Parel, Mumbai, Maharashtra - 400012"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "primary_emergency": "1962",
+      "department": "Directorate of Veterinary Services, Madhya Pradesh, Bhopal",
+      "helpline": "0755-2772274 / 0755-2772275",
+      "major_hospital": "Nanaji Deshmukh Veterinary Science University Hospital, Jabalpur",
+      "hospital_contact": "0761-2621330 / 0761-2620783",
+      "address": "South Civil Lines, Jabalpur, Madhya Pradesh - 482001"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry, Andhra Pradesh, Vijayawada",
+      "helpline": "1800-425-0010 / 0866-2475477",
+      "major_hospital": "Sri Venkateswara Veterinary University (SVVU) Super Specialty Clinic, Tirupati",
+      "hospital_contact": "0877-2248006 / 0877-2249932",
+      "address": "Chandragiri Road, Tirupati, Andhra Pradesh - 517502"
+    },
+    {
+      "state": "Telangana",
+      "primary_emergency": "1962",
+      "department": "Directorate of Animal Husbandry, Telangana, Hyderabad",
+      "helpline": "040-23391342 / 040-23391343",
+      "major_hospital": "PV Narasimha Rao Telangana Veterinary University (PVNRTVU) Hospital, Hyderabad",
+      "hospital_contact": "040-24002141 / 040-24002131",
+      "address": "Rajendranagar, Hyderabad, Telangana - 500030"
+    },
+    {
+      "state": "Karnataka",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry and Veterinary Services, Karnataka, Bengaluru",
+      "helpline": "080-22864981 / 080-22864982",
+      "major_hospital": "Veterinary College Hospital (KVAFSU), Hebbal, Bengaluru",
+      "hospital_contact": "080-23411483 / 080-23414384",
+      "address": "Bellary Road, Hebbal, Bengaluru, Karnataka - 560024"
+    },
+    {
+      "state": "Tamil Nadu",
+      "primary_emergency": "1962",
+      "department": "Department of Animal Husbandry and Veterinary Services, Chennai",
+      "helpline": "044-24321070 / 044-24321071",
+      "major_hospital": "Madras Veterinary College Teaching Hospital (TANUVAS), Vepery, Chennai",
+      "hospital_contact": "044-25304000 / 044-25388550",
+      "address": "Vepery High Road, Chennai, Tamil Nadu - 600007"
+    },
+    {
+      "state": "Bihar",
+      "primary_emergency": "1962",
+      "department": "Directorate of Animal Husbandry, Bihar, Patna",
+      "helpline": "0612-2217604 / 0612-2217605",
+      "major_hospital": "Bihar Animal Sciences University (BASU) Veterinary Clinical Complex, Patna",
+      "hospital_contact": "0612-2227707 / 0612-2227708",
+      "address": "Bihar Veterinary College Campus, Patna, Bihar - 800014"
+    }
+  ]
+}

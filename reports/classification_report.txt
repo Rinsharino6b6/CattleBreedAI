@@ -1,0 +1,21 @@
+=====================================================
+ INDIAN CATTLE & BUFFALO BREED RECOGNITION REPORT   
+=====================================================
+
+Test Accuracy: 97.31%
+Macro F1-Score: 97.30%
+Weighted F1-Score: 97.30%
+
+Detailed Per-Class Metrics:
+-----------------------------------------------------
+              precision    recall  f1-score   support
+
+      Bargur     1.0000    1.0000    1.0000        52
+         Gir     1.0000    1.0000    1.0000        52
+    Hallikar     1.0000    1.0000    1.0000        52
+      Ongole     0.8947    0.9808    0.9358        52
+  Tharparkar     0.9787    0.8846    0.9293        52
+
+    accuracy                         0.9731       260
+   macro avg     0.9747    0.9731    0.9730       260
+weighted avg     0.9747    0.9731    0.9730       260
